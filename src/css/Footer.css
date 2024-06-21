@@ -1,0 +1,13 @@
+/* Ensure the body takes at least the full viewport height */
+
+  
+  /* Footer at the bottom */
+  .footer {
+    background-color: #f8f9fa; /* Example background color */
+    text-align: center;
+    padding: 1rem;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
+  }
+  
